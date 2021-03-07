@@ -1,0 +1,19 @@
+{
+  "name": "liping-custom-command",
+  "version": "1.0.0",
+  "description": "自定义node命令",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liping920614/liping-custom-command.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liping920614/liping-custom-command/issues"
+  },
+  "homepage": "https://github.com/liping920614/liping-custom-command#readme"
+}
